@@ -54,7 +54,7 @@ Besides software, I enjoy b write technical stuff and help people ❤️
 #### **Programming**
 
 - [Java Microservices  ](https://github.com/ReneI/microservices-java-spring) -  Dcoker kubernetes Kafka
-- [Jenkins devops pipeline ](https://github.com/joseluistello/Django_Google_API) -  Ruby on rails
+- [Jenkins devops pipeline ](https://github.com/ReneI/devops-ruby) -  Ruby on rails
 
 
 
@@ -68,7 +68,7 @@ Besides software, I enjoy b write technical stuff and help people ❤️
 <p align="center">
   
  <a href="https://github.com/reneI/reneI">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reneI&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reneI&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
   
 </p>
